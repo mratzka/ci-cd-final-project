@@ -24,3 +24,4 @@ jobs:
       - name: Run unit tests with nose
         run: | 
           nosetests -v --with-spec --spec-color --with-coverage --cover-package=app
+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
